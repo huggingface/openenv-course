@@ -2,7 +2,7 @@
 
 ## The Environment Hub
 
-OpenEnv environments live on Hugging Face Spaces. The [Environment Hub collection](https://huggingface.co/collections/openenv/environment-hub) has ready-to-use environments you can connect to immediately.
+OpenEnv environments live on Hugging Face Spaces. The [Environment Hub collection](https://huggingface.co/collections/openenv/openenv-environment-hub) has ready-to-use environments you can connect to immediately.
 
 Every Space gives you three things:
 
